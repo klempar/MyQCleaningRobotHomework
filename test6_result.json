@@ -1,0 +1,13 @@
+{
+  "visited" : [ {
+    "X" : 3,
+    "Y" : 2
+  } ],
+  "final" : {
+    "X" : 3,
+    "Y" : 2,
+    "facing" : "W"
+  },
+  "cleaned" : [ ],
+  "battery" : 181
+}
